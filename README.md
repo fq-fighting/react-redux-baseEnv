@@ -1,2 +1,12 @@
-# react-redux-baseEnv
-基于react-redux框架开发的基本环境
+// cd demo path
+
+npm install
+npm run w
+
+// open another cmd window
+
+node mynode.js
+
+// open IE to access
+
+http://localhost:7777/
